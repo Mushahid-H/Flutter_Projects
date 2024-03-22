@@ -1,5 +1,5 @@
 // import 'package:api_tutorial/home_screen.dart';
-import 'package:api_tutorial/DartModels/home_screen4.dart';
+import 'package:api_tutorial/home_screen4.dart';
 import 'package:api_tutorial/DartModels/user_model.dart';
 import 'package:api_tutorial/home_screen2.dart';
 import 'package:api_tutorial/home_screen3.dart';
